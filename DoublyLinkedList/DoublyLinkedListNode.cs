@@ -6,12 +6,12 @@ namespace DoublyLinkedList
 {
     class DoublyLinkedListNode<T> where T : IComparable<T>
     {
-        public T data;
+        public T Data;
         public DoublyLinkedListNode<T> Next;
 
         public DoublyLinkedListNode<T> Previous;
 
-        public DoublyLinkedListNode(T Data)
+        public DoublyLinkedListNode(T data)
         {
             Data = data;
         }

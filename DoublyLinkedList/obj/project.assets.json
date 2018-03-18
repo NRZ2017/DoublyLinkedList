@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "c:\\users\\nickzhao\\source\\repos\\DoublyLinkedList\\DoublyLinkedList\\DoublyLinkedList.csproj",
+      "projectUniqueName": "C:\\Users\\NickZhao\\Documents\\DoublyLinkedList\\DoublyLinkedList\\DoublyLinkedList.csproj",
       "projectName": "DoublyLinkedList",
-      "projectPath": "c:\\users\\nickzhao\\source\\repos\\DoublyLinkedList\\DoublyLinkedList\\DoublyLinkedList.csproj",
+      "projectPath": "C:\\Users\\NickZhao\\Documents\\DoublyLinkedList\\DoublyLinkedList\\DoublyLinkedList.csproj",
       "packagesPath": "C:\\Users\\NickZhao\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\nickzhao\\source\\repos\\DoublyLinkedList\\DoublyLinkedList\\obj\\",
+      "outputPath": "C:\\Users\\NickZhao\\Documents\\DoublyLinkedList\\DoublyLinkedList\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -8,10 +8,14 @@ namespace DoublyLinkedList
         {
             DoublyLinkedList<int> doublyLinkedList = new DoublyLinkedList<int>();
 
-            doublyLinkedList.AddAt(1, 1);
-            doublyLinkedList.AddAt(2, 23);
+            doublyLinkedList.AddAt(0, 1);
+            doublyLinkedList.AddAt(0, 23);
             doublyLinkedList.AddAt(1, 33);
-            
+            doublyLinkedList.AddFirst(99);
+            doublyLinkedList.AddLast(100);
+            doublyLinkedList.RemoveAt(2);
+            doublyLinkedList.RemoveFront();
+            doublyLinkedList.RemoveEnd();
         }
     }
 }

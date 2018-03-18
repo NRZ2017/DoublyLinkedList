@@ -9,3 +9,14 @@ c:\users\nickzhao\source\repos\DoublyLinkedList\DoublyLinkedList\obj\Debug\netco
 c:\users\nickzhao\source\repos\DoublyLinkedList\DoublyLinkedList\obj\Debug\netcoreapp2.0\DoublyLinkedList.AssemblyInfo.cs
 c:\users\nickzhao\source\repos\DoublyLinkedList\DoublyLinkedList\obj\Debug\netcoreapp2.0\DoublyLinkedList.dll
 c:\users\nickzhao\source\repos\DoublyLinkedList\DoublyLinkedList\obj\Debug\netcoreapp2.0\DoublyLinkedList.pdb
+C:\Users\NickZhao\Documents\DoublyLinkedList\DoublyLinkedList\bin\Debug\netcoreapp2.0\DoublyLinkedList.deps.json
+C:\Users\NickZhao\Documents\DoublyLinkedList\DoublyLinkedList\bin\Debug\netcoreapp2.0\DoublyLinkedList.runtimeconfig.json
+C:\Users\NickZhao\Documents\DoublyLinkedList\DoublyLinkedList\bin\Debug\netcoreapp2.0\DoublyLinkedList.runtimeconfig.dev.json
+C:\Users\NickZhao\Documents\DoublyLinkedList\DoublyLinkedList\bin\Debug\netcoreapp2.0\DoublyLinkedList.dll
+C:\Users\NickZhao\Documents\DoublyLinkedList\DoublyLinkedList\bin\Debug\netcoreapp2.0\DoublyLinkedList.pdb
+C:\Users\NickZhao\Documents\DoublyLinkedList\DoublyLinkedList\obj\Debug\netcoreapp2.0\DoublyLinkedList.csprojResolveAssemblyReference.cache
+C:\Users\NickZhao\Documents\DoublyLinkedList\DoublyLinkedList\obj\Debug\netcoreapp2.0\DoublyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\NickZhao\Documents\DoublyLinkedList\DoublyLinkedList\obj\Debug\netcoreapp2.0\DoublyLinkedList.AssemblyInfoInputs.cache
+C:\Users\NickZhao\Documents\DoublyLinkedList\DoublyLinkedList\obj\Debug\netcoreapp2.0\DoublyLinkedList.AssemblyInfo.cs
+C:\Users\NickZhao\Documents\DoublyLinkedList\DoublyLinkedList\obj\Debug\netcoreapp2.0\DoublyLinkedList.dll
+C:\Users\NickZhao\Documents\DoublyLinkedList\DoublyLinkedList\obj\Debug\netcoreapp2.0\DoublyLinkedList.pdb
